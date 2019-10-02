@@ -1,2 +1,2 @@
 # Codenation-Fifa
-Desafio Codenation: Processe dados dos jogadores do FIFA© 2017 usando Python
+Codenation challenge: Process FIFA© 2017 players's data using Python.
